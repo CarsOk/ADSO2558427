@@ -4,7 +4,7 @@ Pagina WEB con maquetado HTML proyecto Veterinaria
 
 ## Imagen
 
-![canino](canino.png)
+![canino](caninos.png)
 
 ### Aprendices
 
