@@ -1,5 +1,6 @@
 # ADSO2558427
 Actividades de aprendizaje
 
-- [Actividades](actividades/readme.md)
-- [Ejemplos](ejemplos/readme.md)
+1. [Ejemplos](ejemplos/readme.md)
+2. [Actividades](actividades/readme.md)
+
