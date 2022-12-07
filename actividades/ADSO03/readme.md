@@ -5,3 +5,4 @@ EL aprendiz debe crear un repositorio donde registre su portafolio de evidencias
 ### Aprendices
 
 - [ANDRES DAVID GARCIA BERTEL]()
+- [JHON FREDY SANTANDER PATIÑO](https://github.com/GoJhon/Evidencias-de-aprendizaje)

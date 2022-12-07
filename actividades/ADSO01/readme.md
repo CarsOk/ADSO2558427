@@ -5,3 +5,4 @@ EL aprendiz debe subir su hoja de vida en formato marckdown utilizando GitHUb
 ### Aprendices
 
 - [ANDRES DAVID GARCIA BERTEL]()
+- [JHON FREDY SANTANDER PATIÑO](https://github.com/GoJhon/Hoja-de-vida)
