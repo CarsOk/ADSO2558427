@@ -8,4 +8,6 @@
 - [Ciclo MQ (2)](ADSO06/readme.md)
 - [Formulario Visual Basic](ADSO07/readme.md)
 - [Maquetado Html Veterinaria (ADSO17)](ADSO17/readme.md)
+- [Maquetado Html Banco (ADSO18)](ADSO18/readme.md)
+- [Bootstrap (ADSO19)](ADSO19/readme.md)
 
