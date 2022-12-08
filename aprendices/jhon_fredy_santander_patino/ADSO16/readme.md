@@ -2,4 +2,4 @@
 
 Pagina WEB inicial, publicada en GitHub
 
-(Link para ver pagina web)[https://gojhon.github.io/]
+[Link para ver pagina web](https://gojhon.github.io/)
