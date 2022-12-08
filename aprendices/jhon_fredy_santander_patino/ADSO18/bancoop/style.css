@@ -1,0 +1,60 @@
+main{
+    border: 1px solid blue;
+    width: 1000px;
+    height: 700px;
+    margin: auto;
+}
+
+header{
+    border: 1px solid green;
+    height: 100px;
+}
+
+nav{
+    border: 1px solid blue;
+    height: 50px;
+}
+
+section{
+    border: 1px solid red;
+    height: 450px;
+    width: 400px;
+    display: inline-block;
+
+}
+
+.usuario{
+    border: 1px solid green;
+    width: 350px;   
+    height: 200px;   
+    margin: auto;
+    margin-top: 15px;
+}
+
+aside{
+    border: 1px solid red;
+    height: 450px;
+    width: 590px;
+    display: inline-block;  
+}
+
+.cuadro{
+    border: 1px solid purple;
+    height: 220px;
+    width: 290px;
+    float:right;  
+    margin: auto;
+}
+
+.cuadro2{
+    border: 1px solid purple;
+    height: 50px;
+    width: 50px;
+    float:right;
+}
+
+footer{
+    border: 1px solid green;
+    height: 90px;
+}
+
