@@ -25,10 +25,10 @@ Anotaciones de actividades en ADSO Sena
 
 [1.10 Ciclo For](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/ciclos/README.md)
 
-[1.11 Desafío ciclo for](/trimestre1/desafioCicloFor/README.md)
+[1.11 Desafío ciclo for](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/desafioCicloFor/README.md)
 
-[1.12 Ciclos y funciones de manejo de cadenas para caracteres](/trimestre1/ciclosMidLes/README.md)
+[1.12 Ciclos y funciones de manejo de cadenas para caracteres](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/ciclosMidLes/README.md)
 
-[1.13 While, pull request y formulario en VBA](/trimestre1/ejerciciosVBA/README.md)
+[1.13 While, pull request y formulario en VBA](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/ejerciciosVBA/README.md)
 
-[1.14 POO y Dart](/trimestre1/poo/README.md)
+[1.14 POO y Dart](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/poo/README.md)
