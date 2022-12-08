@@ -1,0 +1,200 @@
+
+main{
+    width: 1000px;
+    height: 965px;
+    margin: auto;
+}
+
+header{
+    background-color: black;
+    padding-bottom: 15px;
+}
+
+
+
+nav{
+    border-top: 1px solid #f6bd18;
+    background-color: #f6bd18;
+    border-radius: 0px 0px 20px 20px;
+    height: 55px;
+    
+
+}
+
+
+.menu{
+    border-right: 2px solid white;
+    color: #000000;
+    font-size: 22px;
+    font-weight: 50px;
+    display: inline;
+    padding-right: 40px;
+    margin-top: 15px;
+    padding-bottom: 2px;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+
+#menu-sin-borde{
+    border-right: 0px;
+}
+
+aside{  
+    height: 590px;
+    width: 400px;
+    display: inline-block;
+}
+
+
+#cuenta{
+    margin-left: 10px;
+}
+
+#tipo{
+    margin-left: 30px;
+}
+#encabezado{
+    width: 998px;
+}
+
+#clave{
+    margin-left: 20px;
+}
+
+aside article label{
+    color: #000000;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px ;
+    display: inline-block;
+}
+
+aside article button{
+    display: block;
+    margin-left: 160px;
+    margin-right: 160x;
+    margin-top: 20px;
+    background-color: #f6bd18;
+}
+
+.tituloIngreso{
+    border-radius: 20px 20px 0px 0px;
+    background-color: #000000;
+    padding-top: 12px;
+    padding-bottom: 5px;
+    color: #c5c5c5; 
+    margin: 0px;
+    text-align: center;
+}
+
+.usuario{
+    background-color: #b2b2b2;
+    border-radius: 20px 20px 0px 0px;
+    width: 380px;   
+    height: 250px;   
+    margin: auto;
+    margin-top: 15px;
+    float: left;
+    margin-left: 0px;
+}
+
+#transacciones{
+    background-color: #232323;
+    border-radius: 0px 0px 0px 0px;
+    height: 284px;
+}
+
+.subtituloAmarillo{
+    background-color: #000000;
+    color: #f7ba19;
+    text-align: center;
+    margin: 0px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-weight: 200;
+}
+
+.pagos{
+    border-bottom: 1px solid #ffffff;
+    color: #c5c5c5;
+    text-align: center;
+}
+
+#pagos-sin-borde{
+    border-bottom: 0px;
+}
+
+section{
+    height: 590px;
+    width: 590px;
+    display: inline-block;  
+}
+
+.cuadro{    
+    background-color: #e6e4e5;
+    height: 270px;
+    width: 280px;
+    float:right;
+    margin-top: 15px;
+    margin-left: 12px;  
+}
+
+.tituloCuadro{
+    background-color: #000000;
+    color: #c5c5c5;
+    margin: 0px;
+    padding-top: 15px;
+    text-align: center;
+    padding-bottom: 15px;
+    font-size: 14px;
+}
+
+#cuadro1{
+    border-radius: 0px 20px 0px 0px;
+}
+
+#titulo_cuadro1{
+    border-radius: 0px 20px 0px 0px;
+}
+
+#cuadro2{
+    border-radius: 20px 0px 0px 0px;
+}
+
+#titulo_cuadro2{
+    border-radius: 20px 0px 0px 0px;
+}
+
+#cuadro3{
+    border-radius: 0px 0px 20px 0px;
+}
+
+#cuadro4{
+    border-radius: 0px 0px 0px 20px;
+}
+
+.texto{
+    font-size: 10px;
+    width: 270px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 16px;
+    font-weight: 200;
+}
+
+footer{
+    background-color: #232323;
+    border-radius: 0px 0px 20px 20px;
+    height: 90px;
+}
+
+.paginafinal{
+    color: #c5c5c5;
+    margin: 0px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+#pieDePaginaCentrar{
+    padding-top: 15px;
+}
