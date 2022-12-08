@@ -13,17 +13,17 @@ Anotaciones de actividades en ADSO Sena
 
 [1.4 Github desktop y condicionales](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/githubDesktopCondicionales/README.md)
 
-[1.5 Desafío grupal](/trimestre1/desafioGrupal/README.md)
+[1.5 Desafío grupal](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/desafioGrupal/README.md)
 
-[1.6 Desafío del hotel y noches](/trimestre1/hotelNoches/README.md)
+[1.6 Desafío del hotel y noches](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/hotelNoches/README.md)
 
-[1.7 Sacar impuesto según los ingreso anuales de una empresa](/trimestre1/impuestoIngresoAnual/README.md)
+[1.7 Sacar impuesto según los ingreso anuales de una empresa](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/impuestoIngresoAnual/README.md)
 
-[1.8 Formulario](/trimestre1/formulario/README.md)
+[1.8 Formulario](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/formulario/README.md)
 
-[1.9 Registro de datos de carros](/trimestre1/registroCarros/README.md)
+[1.9 Registro de datos de carros](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/registroCarros/README.md)
 
-[1.10 Ciclo For](/trimestre1/ciclos/README.md)
+[1.10 Ciclo For](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/ciclos/README.md)
 
 [1.11 Desafío ciclo for](/trimestre1/desafioCicloFor/README.md)
 
