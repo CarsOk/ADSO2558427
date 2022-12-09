@@ -37,3 +37,4 @@ soy una persona que Actualmente estoy estudiando programación y pues algo que m
 |Single backticks|Colegio Tecnico Industrial San Carlos Borromeo  |2016           |
 |Quotes          |Colegio Tecnico Industrial San Carlos Borromeo            |2021            |
 |Dashes          |Sena Centro Indutrial y de Aviacion|2022|
+
