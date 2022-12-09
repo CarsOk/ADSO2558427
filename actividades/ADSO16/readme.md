@@ -6,4 +6,5 @@ Pagina WEB inicial, publicada en GitHub
 
 - [ANDRES DAVID GARCIA BERTEL]()
 - [JHON FREDY SANTANDER PATIÑO](https://gojhon.github.io/)
+- [YEZID EDUARDO PEREZ PERTUZ](https://developeryezid.github.io/)
 
