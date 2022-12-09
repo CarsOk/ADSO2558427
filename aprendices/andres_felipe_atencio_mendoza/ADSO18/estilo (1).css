@@ -1,0 +1,57 @@
+main{   
+    margin: auto;
+    height: 292px;
+    width: 500px;
+    margin: auto;
+}
+header{    
+   border-radius: 10px 10px 0px 0px;
+   font-style: italic; 
+}
+
+header{    
+    border: 1px solid black;
+   border-radius: 10px 10px 0px 0px;
+    text-align: center;
+    font-style: italic; 
+    font-size: larger;
+    border: 1px solid black;
+    text-align: center;
+}
+    
+article{
+    font-size: larger;
+    font-style: italic; 
+    border: 1px solid black;
+}
+    
+article{
+    height: 92px;
+    font-style: italic; 
+    border: 1px solid black;
+}
+.one{
+    height: 92px;
+    font-style: italic; 
+    height: 240px;
+}
+    
+.one{
+    font-style: italic; 
+}
+ 
+footer{
+    height: 240px;
+    font-style: italic; 
+    border: 1px solid black;
+}
+   
+footer{
+    text-align: center;
+    font-style: italic; 
+    border-radius: 0px 0px 10px 10px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 0px 0px 10px 10px;
+}
+    
