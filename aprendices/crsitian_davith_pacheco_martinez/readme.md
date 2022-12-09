@@ -30,7 +30,7 @@ Información Basica
 - [Desarrollo con peticion GET a Backend un objeto](ADSO13)
 - [Desarrollo con peticion GET a Backend lista objetos](ADSO14)
 - [CustomPaint, Stack y positioned](ADSO15)
-- [mi pajina]([https://cristian-pacheco.github.io/](https://github.com/Cristian-pacheco/Cristian-pacheco.github.io))
+- [mi pajina](https://cristian-pacheco.github.io/](https://github.com/Cristian-pacheco/Cristian-pacheco.github.io)
 - [Maquetado Html Veterinaria](ADSO17)
 - [Maquetado Html Banco](ADSO18)
 
