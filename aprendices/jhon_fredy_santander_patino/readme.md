@@ -19,6 +19,12 @@ Información Basica
 
 <h3>VBA</h3>
 
+- [**ADSO1 - Hoja de Vida - Proyecto formativo**](/aprendices/jhon_fredy_santander_patino/ADSO01)
+
+- [Ejercicio Ciclo Mientras que Recaudo](/aprendices/jhon_fredy_santander_patino/actividades/vba/whileRecaudo/README.md)
+
+- [Ejercicio Ciclo Mientras que Recaudo](/aprendices/jhon_fredy_santander_patino/actividades/vba/whileRecaudo/README.md)
+
 - [Ejercicio Ciclo Mientras que Recaudo](/aprendices/jhon_fredy_santander_patino/actividades/vba/whileRecaudo/README.md)
 
 - [Ejercicio Ciclo mientras que buscador](/aprendices/jhon_fredy_santander_patino/actividades/vba/whileBaseDatos/README.md)
