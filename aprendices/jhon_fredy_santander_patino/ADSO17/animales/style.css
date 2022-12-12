@@ -1,0 +1,45 @@
+main{
+    border: 1px solid blue;
+    width: 1000px;
+    height: 700px;
+    margin: auto;
+}
+
+header{
+    border: 1px solid green;
+    height: 100px;
+}
+
+nav{
+    border: 1px solid blue;
+    height: 50px;
+}
+
+section{
+    border: 1px solid red;
+    height: 450px;
+    width: 600px;
+    display: inline-block;
+
+}
+
+article{
+    border: 1px solid green;
+    width: 580px;   
+    height: 200px;   
+    margin: auto;
+    margin-top: 15px;
+}
+
+aside{
+    border: 1px solid red;
+    height: 450px;
+    width: 390px;
+    display: inline-block;
+}
+
+footer{
+    border: 1px solid green;
+    height: 90px;
+}
+
