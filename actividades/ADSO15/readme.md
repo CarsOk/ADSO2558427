@@ -5,4 +5,4 @@ Rediseñar la interfaz grafica del APP ADSO13 utilizando Stack y CustomPaint en 
 ### Aprendices
 
 - [ANDRES DAVID GARCIA BERTEL]()
-- [JHON FREDY SANTANDER PATIÑO](/aprendices/jhon_fredy_santander_patino/ADSO15)
+- [JHON FREDY SANTANDER PATIÑO](/aprendices/jhon_fredy_santander_patino/ADSO15/redsocial)

@@ -5,4 +5,4 @@ El aprendiz debe construir un APP en flutter, que permita consumir un objeto de 
 ### Aprendices
 
 - [ANDRES DAVID GARCIA BERTEL]()
-- [JHON FREDY SANTANDER PATIÑO](/aprendices/jhon_fredy_santander_patino/ADSO13)
+- [JHON FREDY SANTANDER PATIÑO](/aprendices/jhon_fredy_santander_patino/ADSO13/hojavida)

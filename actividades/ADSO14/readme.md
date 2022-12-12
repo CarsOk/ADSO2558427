@@ -5,4 +5,4 @@ El aprendiz debe construir un APP en flutter, que permita consumir una lista de 
 ### Aprendices
 
 - [ANDRES DAVID GARCIA BERTEL]()
-- [JHON FREDY SANTANDER PATIÑO](/aprendices/jhon_fredy_santander_patino/ADSO14)
+- [JHON FREDY SANTANDER PATIÑO](/aprendices/jhon_fredy_santander_patino/ADSO14/chatapp)
