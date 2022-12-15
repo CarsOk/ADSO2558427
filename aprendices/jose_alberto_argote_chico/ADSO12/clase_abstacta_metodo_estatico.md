@@ -1,4 +1,4 @@
-# Clase Abstracta y Metoo Estatico
+# Clase Abstracta y Metodo Estatico
 
 ```
 public class MyClass { 
