@@ -1,1 +1,0 @@
-# Ciclo Para
