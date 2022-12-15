@@ -1,6 +1,7 @@
 ##  CustomPaint, Stack y Positioned
 
 ## Main
+```
 import 'package:app/widget/template.dart';
 import 'package:flutter/material.dart';
 import 'package:app/models/user.dart';
@@ -37,9 +38,11 @@ class MyApp extends StatelessWidget {
     return User(response.body);
   }
 }
+```
 
 ## Template
 
+```
 import 'package:flutter/material.dart';
 import 'package:app/models/user.dart';
 import 'background.dart';
@@ -119,9 +122,11 @@ class Template extends StatelessWidget {
     );
   }
 }
+```
 
 
-## Background
+# Background
+```
 
 import 'package:flutter/material.dart';
 
@@ -161,8 +166,10 @@ class _HeaderLoginPainter extends CustomPainter {
     return true;
   }
 }
+```
 
 ## User
+```
 
 import 'dart:convert' as convert;
 
@@ -178,3 +185,4 @@ class User {
     email = jsonResponse["data"]["email"];
   }
 }
+```
