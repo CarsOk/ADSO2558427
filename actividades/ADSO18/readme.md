@@ -10,3 +10,4 @@ Pagina WEB con maquetado HTML proyecto Banco
 
 - [ANDRES DAVID GARCIA BERTEL]()
 - [JHON FREDY SANTANDER PATIÑO](https://github.com/CarsOk/ADSO2558427/blob/jhonDevelop/aprendices/jhon_fredy_santander_patino/actividades/html/bancoop/README.md)
+- [YEZID EDUARDO PEREZ PERTUZ](/aprendices/yezid_eduardo_perez_pertuz/ADSO18/Bancoop.md)
