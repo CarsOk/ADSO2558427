@@ -1,6 +1,7 @@
 # CustomPaint, Stack y Positioned
 
 ### MAIN
+~~~
 import 'package:flutter/material.dart';
 import 'package:paint/widgets/Template.dart';
 import 'models/user.dart';
@@ -38,6 +39,7 @@ void main() {
         }
     }
 
+~~~
 
 ### USER
 
