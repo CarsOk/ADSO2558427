@@ -1,0 +1,34 @@
+# Evidencias-de-aprendizaje
+Anotaciones de actividades en ADSO Sena
+
+## Indice
+
+[1. Trimestre 1](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1)
+
+[1.1 Hoja de vida](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/hojaVida/README.md)
+
+[1.2 Introducción a Visual Basic](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/introduccionVisualBasic/README.md)
+
+[1.3 Kanban, asignación de variables y concatenación](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/kanbanAsignacionVarConcatenacion/README.md)
+
+[1.4 Github desktop y condicionales](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/githubDesktopCondicionales/README.md)
+
+[1.5 Desafío grupal](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/desafioGrupal/README.md)
+
+[1.6 Desafío del hotel y noches](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/hotelNoches/README.md)
+
+[1.7 Sacar impuesto según los ingreso anuales de una empresa](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/impuestoIngresoAnual/README.md)
+
+[1.8 Formulario](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/formulario/README.md)
+
+[1.9 Registro de datos de carros](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/registroCarros/README.md)
+
+[1.10 Ciclo For](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/ciclos/README.md)
+
+[1.11 Desafío ciclo for](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/desafioCicloFor/README.md)
+
+[1.12 Ciclos y funciones de manejo de cadenas para caracteres](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/ciclosMidLes/README.md)
+
+[1.13 While, pull request y formulario en VBA](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/ejerciciosVBA/README.md)
+
+[1.14 POO y Dart](/aprendices/jhon_fredy_santander_patino/ADSO03/trimestre1/poo/README.md)

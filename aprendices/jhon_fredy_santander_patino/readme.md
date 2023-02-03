@@ -17,48 +17,42 @@ Información Basica
 
 <h2 align=center>Ejercicios</h2>
 
-<h3>VBA</h3>
+- [**ADSO1 - Hoja de Vida - Proyecto formativo**](/aprendices/jhon_fredy_santander_patino/ADSO01)
 
-- [Ejercicio Ciclo Mientras que Recaudo](/aprendices/jhon_fredy_santander_patino/actividades/vba/whileRecaudo/README.md)
+- [**ADSO2 - KANBAN**](/aprendices/jhon_fredy_santander_patino/ADSO02)
 
-- [Ejercicio Ciclo mientras que buscador](/aprendices/jhon_fredy_santander_patino/actividades/vba/whileBaseDatos/README.md)
+- [**ADSO3 - Cuaderno Electrónico**](/aprendices/jhon_fredy_santander_patino/ADSO03)
 
-- [Ejercicio formulario en VBA](/aprendices/jhon_fredy_santander_patino/actividades/vba/Formulario/README.md)
+- [**ADSO04 - Ciclo PARA**](/aprendices/jhon_fredy_santander_patino/ADSO04)
 
-<h3>Dart</h3>
+- [**ADSO05 - Ciclo MQ (1)**](/aprendices/jhon_fredy_santander_patino/ADSO05)
 
-- [Ejercicio en Dart](/aprendices/jhon_fredy_santander_patino/actividades/dart/dartMetodos/README.md)
+- [**ADSO06 - Ciclo MQ (2)**](/aprendices/jhon_fredy_santander_patino/ADSO06)
 
-- [Constructores y parametros](/aprendices/jhon_fredy_santander_patino/actividades/dart/constructorParametros/README.md)
+- [**ADSO07 - Formulario Visual Basic**](/aprendices/jhon_fredy_santander_patino/ADSO07)
 
-- [Herencia en Dart](/aprendices/jhon_fredy_santander_patino/actividades/dart/herencia/README.md)
+- [**ADSO08 - Dart, objetos, clases y metodos**](/aprendices/jhon_fredy_santander_patino/ADSO08)
 
-- [Funciones manejo de cadenas para caracteres en Dart](/aprendices/jhon_fredy_santander_patino/actividades/dart/manejoCadenasDart/README.md)
+- [**ADSO09 - Tipos de parametros y constructores**](/aprendices/jhon_fredy_santander_patino/ADSO09)
 
-- [Clase abstracta y metodo estatico](/aprendices/jhon_fredy_santander_patino/actividades/dart/claseAbstractometodoStatic/README.md)
+- [**ADSO10 - Herencia**](/aprendices/jhon_fredy_santander_patino/ADSO10)
 
-- [Encapsulamiento - alcance public, private - metodos Setter y Getter](/aprendices/jhon_fredy_santander_patino/actividades/dart/encapsulamiento/README.md)
+- [**ADSO11 - manejo de cadenas en Dart**](/aprendices/jhon_fredy_santander_patino/ADSO11)
 
-- [Asociaciones](/aprendices/jhon_fredy_santander_patino/actividades/dart/asociaciones/README.md)
+- [**ADSO12 - Clase abstracta y metodo estatico**](/aprendices/jhon_fredy_santander_patino/ADSO12)
 
-- [Json, mapa y asincronismo](/aprendices/jhon_fredy_santander_patino/actividades/dart/json/README.md)
+- [**ADSO13 - Desarrollo Con peticion GET a Backend un Objeto**](/aprendices/jhon_fredy_santander_patino/ADSO13/hojavida)
 
-<h3>Flutter</h3>
+- [**ADSO14 - Desarrollo Con peticion GET a Backend Lista Objetos**](/aprendices/jhon_fredy_santander_patino/ADSO14/chatapp)
 
-- [Mi primer codigo](/aprendices/jhon_fredy_santander_patino/actividades/flutter/dartPrimerCodigo/README.md)
+- [**ADSO15 - CustomPaint, Stack y positioned**](/aprendices/jhon_fredy_santander_patino/ADSO15/redsocial)
 
-- [Peticiones GET para un usuario](/aprendices/jhon_fredy_santander_patino/actividades/flutter/flutterPeticionHTTP/README.md)
+- [**ADSO16 - Html Básico**](/aprendices/jhon_fredy_santander_patino/ADSO16)
 
-- [Peticiones GET para una lista de usuarios](/aprendices/jhon_fredy_santander_patino/actividades/flutter/peticionesHttpListaUsuarios/README.md)
+- [**ADSO17 - Maquetado Html Veterinaria**](/aprendices/jhon_fredy_santander_patino/ADSO17)
 
-- [CustomPaint](/aprendices/jhon_fredy_santander_patino/actividades/flutter/background/README.md)
+- [**ADSO18 - Maquetado Html Banco**](/aprendices/jhon_fredy_santander_patino/ADSO18)
 
-- [Stack y positioned](/aprendices/jhon_fredy_santander_patino/actividades/flutter/stackBrackground/README.md)
+- [**ADSO19 - BOOTSTRAP**](/aprendices/jhon_fredy_santander_patino/ADSO19)
 
-<h3>HTML5 Y CSS3</h3>
-
-- [Maqueta y contenido de pagina web veterinaria](/aprendices/jhon_fredy_santander_patino/actividades/html/mascotas/README.md)
-
-- [Maqueta y contenido de pagina web de banco](/aprendices/jhon_fredy_santander_patino/actividades/html/bancoop/README.md)
-
-- [Boostrap](/aprendices/jhon_fredy_santander_patino/actividades/html/bootstrap/README.md)
+- [**ADSO20 - Flex y Media Query**](/aprendices/jhon_fredy_santander_patino/ADSO20)

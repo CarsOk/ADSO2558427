@@ -1,0 +1,13 @@
+header{
+    border: 1px solid red;
+    padding: 5px;
+}
+
+article{
+    border: 1px solid blue;
+    padding: 18px;
+}
+footer{
+    border: 1px solid purple;
+    padding: 18px;
+}
