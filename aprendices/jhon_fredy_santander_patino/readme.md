@@ -54,3 +54,5 @@ Información Basica
 - [**ADSO18 - Maquetado Html Banco**](/aprendices/jhon_fredy_santander_patino/ADSO18)
 
 - [**ADSO19 - BOOTSTRAP**](/aprendices/jhon_fredy_santander_patino/ADSO19)
+
+- [**ADSO20 - Flex y Media Query**](/aprendices/jhon_fredy_santander_patino/ADSO20)
