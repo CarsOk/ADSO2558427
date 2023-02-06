@@ -1,0 +1,31 @@
+aside .transacciones{
+    width: 460px;
+    height: 505px;
+    margin: 20px 0 0 0;
+    padding: 1px;
+    background-color: #232323 ;
+    border-bottom: 1px solid grey;
+    margin: 0 0px 12px 7px
+}
+
+aside .transacciones h2{
+    background-color: rgb(0, 0, 0);
+    color: #f6bd18;
+    height: 52px;
+    font-size: 30px;
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+aside .transacciones ul li{
+    color: rgb(192, 187, 187);
+    text-decoration: none;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 25px;
+    font-size: 25px;
+    border-bottom: 1px solid rgb(88, 88, 88)
+}
