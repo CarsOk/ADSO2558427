@@ -3,4 +3,4 @@
 [Ver template](template.md)
 [Ver user](user.md)
 Evidencia
-<img src="perfil.png">
+<img src="lista.png">

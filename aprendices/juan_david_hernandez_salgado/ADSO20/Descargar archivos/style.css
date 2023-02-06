@@ -1,0 +1,34 @@
+header{
+    width: 1000px;
+    display: flex;
+    height: 120px;
+    background-color: grey;
+}
+
+ul{
+    display: flex;
+    width: 800px;
+    gap: 50px;
+    font-size: 32px;
+    justify-content: flex-end;
+}
+.hamburguesa{
+    display: none;
+}
+@media (max-width: 400px) {
+    ul{
+        display: none;
+    }
+    header{
+        display: flex;
+        justify-content: flex-end;
+        gap: 300px;
+    }
+    .hamburguesa{
+        display: flex;
+        
+
+        
+    }
+}
+
